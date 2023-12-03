@@ -1,0 +1,47 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Hotel XYZ",
+        "description": "Un hotel de lujo ubicado en el corazón de la ciudad. Cuenta con habitaciones espaciosas, un servicio de primera clase y una ubicación privilegiada.",
+        "image": "/img/hotell.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Hotel ABC",
+        "description": "Un hotel cómodo con un personal amable. Ofrece habitaciones limpias y bien equipadas a precios asequibles.",
+        "image": "/img/hotell2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Hotel 123",
+        "description": "Un hotel económico con una ubicación céntrica. Está cerca de las principales atracciones de la ciudad y ofrece habitaciones sencillas y funcionales.",
+        "image": "/img/hotell3.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Hotel La Quinta",
+        "description": "Un hotel de gama media ubicado cerca del aeropuerto. Ofrece habitaciones cómodas y un servicio eficiente.",
+        "image": "/img/hotell4.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Hotel Marriott",
+        "description": "Un hotel de lujo ubicado cerca de los centros comerciales. Ofrece habitaciones espaciosas y un servicio personalizado.",
+        "image": "/img/hotell5.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Hotel Hilton",
+        "description": "Un hotel de lujo ubicado cerca de la playa. Ofrece habitaciones elegantes y un servicio de primera clase.",
+        "image": "/img/hotell6.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Hotel Ibis",
+        "description": "Un hotel económico ubicado cerca del centro de la ciudad. Ofrece habitaciones sencillas y limpias a precios asequibles.",
+        "image": "/img/hotell7.jpeg"
+      }
+    ]
+  }
+  
